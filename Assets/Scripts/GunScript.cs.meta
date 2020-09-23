@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a520667a75fee1e4ba2d088e7e1eb264
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fpsCam: {instanceID: 0}
+  - flash: {instanceID: 0}
+  - impact: {fileID: 7861086355715504510, guid: 4ade934e55335fa479ff4a13405b6a27,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
